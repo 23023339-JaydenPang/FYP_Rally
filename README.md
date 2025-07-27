@@ -1,5 +1,8 @@
 # FYP_Rally
 
+NOTE: -	API key must be replaced yourself, create a secret key for your API key and replace the highlighted part “gemini_key = userdata.get('GeminiAPIKey')”. Applies for all 3 LLM with “userdata.get” 
+OR you can directly put your API key in the highlighted part.
+
 Open the Code in Colab
 CODE NUMBER 1
 
